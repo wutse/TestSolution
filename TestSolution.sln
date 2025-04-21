@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHotMail", "TestHotMail\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSpan", "TestSpan\TestSpan.csproj", "{D171C9E2-FF33-4081-B405-A271D67DFB81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMemoryPool", "TestMemoryPool\TestMemoryPool.csproj", "{17BE5922-3811-42B3-A840-0A6803181921}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{D171C9E2-FF33-4081-B405-A271D67DFB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D171C9E2-FF33-4081-B405-A271D67DFB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D171C9E2-FF33-4081-B405-A271D67DFB81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17BE5922-3811-42B3-A840-0A6803181921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17BE5922-3811-42B3-A840-0A6803181921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17BE5922-3811-42B3-A840-0A6803181921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17BE5922-3811-42B3-A840-0A6803181921}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
